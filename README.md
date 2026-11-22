@@ -1,6 +1,6 @@
 <h1 align="center">Adel Sharifi</h1>
 
-<h3 align="center">Computer Engineering Student | Systems & Software Development</h3>
+<h3 align="center">Computer Engineering Student In Shahrekord University  | Systems & Software Development</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Computer+Engineering;C+%2F+C%2B%2B+Developer;Linux+Enthusiast;OS+Development+%7C+Embedded+Systems" />
